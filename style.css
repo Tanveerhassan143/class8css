@@ -1,0 +1,59 @@
+body{
+    background:url(image/ABC\ 2.avif) 
+ 
+}
+
+
+#main{
+    background-color: rgba(216, 245, 187, 0.578);
+    padding-left: 10px;
+    width: 18%;
+    margin: 0 auto;
+font-size: 20px
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(228, 130, 230);
+}
+input{ font-weight: bolder;
+    color: rgb(0, 0, 10);
+    border-color: rgb(69, 62, 62);
+    
+}
+input:hover{
+  background-color: rgb(243, 155, 155);  
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+}
+input[type=text]{
+    background-image: url(image/1828451.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+
+}
+input[type=email]{
+    background-image:url(image/6089035.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+
+}
+input[type=number]{
+ background-image: url(image/7214484.png);
+ background-size: 15px;
+ background-repeat: no-repeat;
+ padding-left: 20px;
+}
+input[type=password]{
+    background-image: url(image/8042435.png)
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 20px;  
+}
