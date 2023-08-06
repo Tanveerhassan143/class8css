@@ -1,13 +1,16 @@
-body{
-    background:url(image/ABC\ 2.avif) 
- 
-}
 
+body{
+    border: 2px solid black;
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: 1277px 700px;
+  }
 
 #main{
     background-color: rgba(216, 245, 187, 0.578);
     padding-left: 10px;
     width: 18%;
+    height: 10%;
     margin: 0 auto;
 font-size: 20px
 }
@@ -52,8 +55,8 @@ input[type=number]{
  padding-left: 20px;
 }
 input[type=password]{
-    background-image: url(image/8042435.png)
+    
     background-size: 15px;
-    background-repeat: no-repeat;
+
     padding-left: 20px;  
 }
