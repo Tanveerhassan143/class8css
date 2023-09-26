@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
     background-size: 1277px 700px; max
     border: radius 2px;
+    
   }
 
 #main{
@@ -62,3 +63,4 @@ input[type=password]{
 
     padding-left: 20px;  
 }
+
